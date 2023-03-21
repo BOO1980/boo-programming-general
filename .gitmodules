@@ -2,3 +2,6 @@
 	path = boo-linux
 	url = https://github.com/BOO1980/boo-linux.git
 
+[submodule "boo-design-patterns"]
+	path = boo-design-patterns
+	url = https://github.com/BOO1980/boo-design-patterns.git
