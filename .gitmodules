@@ -1,6 +1,4 @@
 [submodule "boo-linux"]
 	path = boo-linux
 	url = https://github.com/BOO1980/boo-linux.git
-[submodule "boo-mvc"]
-	path = boo-mvc
-	url = https://github.com/BOO1980/boo-mvc.git
+
